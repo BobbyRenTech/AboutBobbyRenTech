@@ -18,3 +18,6 @@ https://bobbyrentech.wordpress.com/2015/04/23/junior-developers-resource-guide-p
 ###################################
 # Below here, add your info/changes
 ###################################
+
+Hana Kim was here!
+Doesn't know why he needs to fork before cloning?

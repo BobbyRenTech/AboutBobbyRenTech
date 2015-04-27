@@ -18,3 +18,7 @@ https://bobbyrentech.wordpress.com/2015/04/23/junior-developers-resource-guide-p
 ###################################
 # Below here, add your info/changes
 ###################################
+
+My name is Jennifer and I’m about to learn the crap out of iOS Dev!
+Update
+Update

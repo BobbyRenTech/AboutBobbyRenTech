@@ -21,3 +21,6 @@ https://bobbyrentech.wordpress.com/2015/04/23/junior-developers-resource-guide-p
 
 Hana Kim was here!
 Doesn't know why he needs to fork before cloning?
+
+Minsu Kim was here!
+Trying to go over tutorials one more time :)

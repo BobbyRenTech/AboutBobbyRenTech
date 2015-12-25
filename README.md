@@ -24,3 +24,6 @@ Doesn't know why he needs to fork before cloning?
 
 Minsu Kim was here!
 Trying to go over tutorials one more time :)
+
+Liang Zhao was here!
+New on github

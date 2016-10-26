@@ -27,3 +27,6 @@ Trying to go over tutorials one more time :)
 
 Liang Zhao was here!
 New on github
+
+Lilly was here!
+This is my first time using Github.
